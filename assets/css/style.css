@@ -1,0 +1,77 @@
+.jumbotron{
+  background: url(../images/t1.png) no-repeat;
+  background-size: cover;
+
+
+}
+
+.jumbotron{
+  background-color: white;
+  color: #ffcc99;
+  font-family: 'Arial Narrow';
+  font-size: 60px;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+h3 {
+  font-size: 30px;
+  font-family: 'Arial Narrow';
+  color:#66ffcc;
+  font-weight: 600;
+}
+
+h5 {
+   color:#99ff99;
+}
+
+.clock-display{
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.panel-title{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.panel-heading{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.camel-case {
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+.error-message {
+  display: none;
+  color: red;
+}
+
+.delete {
+  background-color: #cc2e58;
+  font-size: 13px;
+}
+
+.delete:hover {
+  background-color: #db0840;
+  cursor: pointer;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(239, 81, 123, 0.6);
+  
+}
+
+.edit {
+  background-color: #3c9b57;
+  font-size: 13px;
+}
+
+.edit:hover {
+  background-color: #0eb53d;
+  cursor: pointer;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 234, 125, 0.6);
+}
+
